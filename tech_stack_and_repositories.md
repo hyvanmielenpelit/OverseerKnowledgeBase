@@ -36,9 +36,14 @@ summary: GnollHack technology stack, dependency graph, and GitHub repositories t
 | `hyvanmielenpelit/GnollHack` | `win/win32/vs` | Visual Studio solution for GnollHack and GnollHackX (Xamarin) |
 | `hyvanmielenpelit/GnollHack` | `win/win32/xpl` | .NET MAUI frontend and its C libraries |
 | `hyvanmielenpelit/GnollHack` | `win/win32/xpl/GnollHackM` | Visual Studio solution for GnollHackM (.NET MAUI) |
-| `hyvanmielenpelit/GnollHack` | `win/win32/xpl/GnollHackX/GnollHackX/Pages/Game/OverseerPage.xaml.cs` | Overseer logic on .NET MAUI side |
 | `hyvanmielenpelit/MobileGnollHackLogger` | `MobileGnollHackLogger` | GnollHack Account server |
 | `hyvanmielenpelit/MobileGnollHackLogger` | `Overseer` | Gnoll Overseer AI assistant |
+
+## Notable Repository Files
+
+| Repository | File | Description |
+|:---|:---|:---|
+| `hyvanmielenpelit/GnollHack` | `win/win32/xpl/GnollHackX/GnollHackX/Pages/Game/OverseerPage.xaml.cs` | Overseer logic on .NET MAUI side |
 
 ## Technology Stack Overview
 
