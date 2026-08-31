@@ -1,6 +1,6 @@
 ---
 title: GnollHack Minimum System Requirements
-summary: Minimum and recommended hardware and software requirements for running GnollHack on Android, iOS/iPadOS, and Windows.
+summary: Minimum and recommended hardware and software requirements for running GnollHack on Android, iOS/iPadOS, macOS (Apple Silicon), and Windows.
 ---
 # GnollHack Minimum System Requirements
 
@@ -28,18 +28,29 @@ For tested device lists, refer to the wiki article "Supported Android Devices."
 
 ## iOS and iPadOS
 
-- **Minimum OS:** iOS / iPadOS 16
-- **Fully supported (3 GB+ RAM):** iPhone X (2017) or later, iPhone SE 2nd gen
-  (2020) or later, iPad 7th gen (2019) or later, iPad Air 3rd gen (2019) or
-  later, iPad Mini 5th gen (2019) or later, all iPad Pro models.
-- **Partially supported (2 GB RAM):** Playable with sound banks disabled in
-  settings. Includes iPhone 6s/7/8, iPhone SE 1st gen, iPad 5th/6th gen,
-  iPad Air 2, iPad Mini 4, iPad Pro 9.7". Restarting the device before
-  playing is recommended to free memory.
+- **Minimum OS:** iOS / iPadOS 15.0
+- **RAM:** 3 GB minimum. **Devices with 2 GB RAM are no longer supported.**
+- **Supported devices:** iPhone X (2017) or later, iPhone SE 2nd gen (2020) or
+  later, iPad 7th gen (2019) or later, iPad Air 3rd gen (2019) or later,
+  iPad Mini 5th gen (2019) or later, all iPad Pro models.
 - **Storage:** 1.5–4 GB free space (app, sound banks, tilesets, game data)
 - **Distribution:** Apple App Store
 
 For full device lists, refer to the wiki article "Supported iPhones and iPads."
+
+## macOS
+
+macOS is supported by running the **iOS build** — the same App Store app as iPhone and
+iPad. There is no separate Mac Catalyst version of the .NET MAUI client, and none is
+planned.
+
+- **Processor:** Apple Silicon required — M1 or later. **Intel Macs are not supported**
+  and support for them is not planned.
+- **Distribution:** Apple App Store (the iOS app, installed on the Mac)
+- **Behaviour:** Because it is the iOS build, a Mac gets the iOS feature set and the iOS
+  settings — not the Windows/desktop ones. In this knowledge base, "desktop" means the
+  Windows build unless a Mac is named explicitly.
+- **Updates:** Disable Automatic Updates in App Store settings, as on iOS.
 
 ## Windows
 

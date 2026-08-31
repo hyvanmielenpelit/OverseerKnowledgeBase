@@ -48,7 +48,7 @@ summary: GnollHack technology stack, dependency graph, and GitHub repositories t
 ## Technology Stack Overview
 
 - **Game Engine**: C (C89 standard), derived from NetHack 3.6.2
-- **Frontend Framework**: .NET MAUI (Android, iOS, Windows)
+- **Frontend Framework**: .NET MAUI (Android, iOS, Windows). macOS is covered by the iOS build running on Apple Silicon (M1 or later) — no Mac Catalyst target is used or planned.
 - **Graphics**: SkiaSharp (SkiaSharp.Views.Maui) for tile rendering
 - **Audio**: FMOD for sound effects and music (proprietary, no public GitHub repo)
 - **Native Bridge**: P/Invoke between C core and C# frontend
