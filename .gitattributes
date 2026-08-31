@@ -1,0 +1,13 @@
+# Normalize line endings for this repository.
+#
+# Git stores every text file with LF in the object database and checks it out
+# with CRLF in the working tree. That keeps diffs clean no matter which editor
+# or tool wrote the file, while giving the Windows Overseer host and Windows
+# development machines the CRLF they expect.
+* text=auto eol=crlf
+
+# Files consumed by Linux tooling must stay LF in the working tree too.
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
