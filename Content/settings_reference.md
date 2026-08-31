@@ -44,7 +44,7 @@ To change any of these, save and exit to the Main Menu first.
 
 Settings is **one long scrolling page**, not a set of sub-pages. The 16 categories below are bold section headings within it, in exactly the order listed. "Settings → System" therefore means scrolling to the **System** heading, not opening a separate page.
 
-**Built-in help:** tapping or clicking a setting's *name* opens a popup describing what it does. The app carries its own description for every setting, so this is the quickest answer to "what does this one do?" — tell players about it.
+**Built-in help:** tapping or clicking a setting's *name* (not its switch) opens a popup with a full description of what it does. On desktop, hovering the name also shows a one-line tooltip and changes the cursor to an info cursor. The app carries its own text for every setting, so this is the quickest answer to "what does this one do?" — tell players about it. The wiki's Settings page documents this too.
 
 The wiki's Settings page groups the categories thematically (a "General Settings" group containing General, Format, and Menu Appearance, and so on). That grouping is a wiki device only; the app does not have it.
 
