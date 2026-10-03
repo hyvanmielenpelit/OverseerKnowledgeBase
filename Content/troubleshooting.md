@@ -52,4 +52,4 @@ summary: Common problems, error messages, and diagnostic steps organized by symp
 - **Via Overseer:** get_panic_log, get_app_log tools can retrieve logs directly
 > **See also:** get_knowledge_article("crash_reporting") for creating crash reports.
 
-> **Wiki:** For additional platform-specific troubleshooting details, search the wiki for "Overseer References" and see the **troubleshooting** section.
+> **Wiki:** For additional platform-specific troubleshooting details, search the wiki for **Troubleshooting** and **Troubleshooting Modern Windows Version (Steam)**.

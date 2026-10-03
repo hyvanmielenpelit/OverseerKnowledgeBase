@@ -28,5 +28,5 @@ summary: Save files, transfers, backups, and recovery procedures
 - If no backup: the save may be unrecoverable
 - To prevent: use Save Transfer to keep a cloud copy before risky operations
 
-> **Wiki:** For detailed transfer prerequisites and the version compatibility table, search the wiki for "Overseer References" and see the **save_management** section.
+> **Wiki:** For detailed transfer prerequisites and the version compatibility table, search the wiki for **Save File Transfer** and **Save Game Compatibility**.
 > **See also:** get_knowledge_article("app_navigation") for navigating to the Vault and Manage Files screens.

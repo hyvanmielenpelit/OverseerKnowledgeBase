@@ -21,5 +21,5 @@ summary: Recording, playback, upload, sharing, and cloud storage of game replays
 #### 5. Sharing
 - Select a replay → More → Share (uses the platform's native share sheet)
 
-> **Wiki:** For the full social sharing guide including Discord channels, search the wiki for "Overseer References" and see the **replay_system** section.
+> **Wiki:** For the full social sharing guide including Discord channels, search the wiki for **Social Sharing Guide** and **Share Your Progress to Discord Server Channel**.
 > **See also:** get_knowledge_article("server_account") for setting up a GnollHack Account.

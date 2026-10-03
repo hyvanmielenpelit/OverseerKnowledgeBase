@@ -14,4 +14,4 @@ GnollHack is based on NetHack 3.6.2 but features significant changes including a
 - **Game modes:** Classic, Modern, Casual, Tournament
 - **Scoring:** completely reworked with conduct bonuses and difficulty multipliers
 
-> **Wiki:** For detailed comparisons, transition guides, and mechanics breakdowns, search the wiki for "Overseer GnollHack vs NetHack" to find all relevant wiki articles organized by topic.
+> **Wiki:** For detailed comparisons, transition guides, and mechanics breakdowns, search the wiki for **How GnollHack differs from NetHack**, **Starting Guide for NetHack Veterans** and **Keyboard Command Changes from NetHack**.

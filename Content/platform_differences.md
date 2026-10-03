@@ -31,4 +31,4 @@ summary: Android, iOS, macOS, Windows, and Steam platform differences and setup 
 - Feature parity is generally maintained across all platforms.
 - Save files can be transferred seamlessly between mobile and desktop using the built-in Save Transfer feature.
 
-> **Wiki:** For supported devices and platform-specific troubleshooting, search the wiki for "Overseer References" and see the **platform_differences** section.
+> **Wiki:** For supported devices and platform-specific troubleshooting, search the wiki for **Android Version**, **iOS and macOS Version**, **Modern Windows Version**, **Supported Android Devices** and **Supported iPhones and iPads**.

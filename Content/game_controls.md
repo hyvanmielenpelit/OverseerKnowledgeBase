@@ -33,5 +33,5 @@ summary: Touch controls, keyboard shortcuts, command buttons, and input customiz
 - Keyboard Shortcuts display: Settings → Interface → Keyboard Shortcuts
 - Desktop-specific: right-click and middle-click quick actions
 
-> **Wiki:** For complete keyboard shortcut tables, command lists, and desktop features, search the wiki for "Overseer References" and see the **game_controls** section.
+> **Wiki:** For complete keyboard shortcut tables, command lists, and desktop features, search the wiki for **Keyboard Shortcuts**, **Commands**, **Advanced Keyboard Features** and **Desktop Features**.
 > **See also:** get_knowledge_article("settings_reference") for all input-related settings.

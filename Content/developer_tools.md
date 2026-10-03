@@ -17,4 +17,4 @@ summary: Developer Mode features, Wizard Mode, and in-game debugging tools
 - In Wizard Mode, save files are not deleted when you die or load the game.
 - A special status bar symbol indicates when Wizard Mode is active.
 
-> **Wiki:** For Wizard Mode command details, search the wiki for "Overseer References" and see the **developer_tools** section.
+> **Wiki:** For Wizard Mode command details, search the wiki for **Wizard Mode** and **Developer Mode**.

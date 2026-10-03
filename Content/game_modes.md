@@ -20,4 +20,4 @@ There are 7 difficulty levels available when creating a new character, scaling m
 #### 4. How to Change Modes
 - Main Menu → toggle mode switches before starting a new game
 
-> **Wiki:** For mode comparisons, difficulty mechanics, and scoring formulas, search the wiki for "Overseer References" and see the **game_modes** section.
+> **Wiki:** For mode comparisons, difficulty mechanics, and scoring formulas, search the wiki for **Difficulty Levels**, **Choosing the Right Gameplay Mode**, **Choosing the Right Difficulty Level** and **Scoring**.

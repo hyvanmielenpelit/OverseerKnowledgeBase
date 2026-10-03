@@ -25,5 +25,5 @@ summary: GnollHack Account setup, score posting, forum integration, and leaderbo
 - Forces on: score posting, bones sharing, replay recording, save file tracking
 - Requires GnollHack Account and minimum Expert difficulty
 
-> **Wiki:** For tournament rules and public server details, search the wiki for "Overseer References" and see the **server_account** section.
+> **Wiki:** For tournament rules and public server details, search the wiki for **Tournaments**, **GnollHack Account** and **Public Servers**.
 > **See also:** get_knowledge_article("app_navigation") for navigating to Settings and Vault.
