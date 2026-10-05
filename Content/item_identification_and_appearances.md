@@ -18,10 +18,10 @@ Strings like `SCROLL("remove curse", "PRATYAVAYAH", ...)` in `src/objects.c` rep
 
 #### 4. Formal & In-Game Identification Methods
 To identify items safely and reliably during gameplay:
-- **Scroll / Spell of Identify:** Identifies one or more inventory items definitively. Blessed identify can reveal the entire inventory.
-- **Altar BUC Testing:** Dropping an item on a co-aligned altar reveals whether it is Blessed (glowing flash), Uncursed, or Cursed (black glow).
+- **Scroll / Spell of Identify:** Identifies inventory items definitively. A scroll identifies one item when cursed, two when uncursed and three when blessed; the spell identifies one. When no more items than that are unidentified, all of them are identified. Unlike in NetHack, a blessed scroll never identifies a larger inventory in full.
+- **Altar BUC Testing:** Dropping an item on any altar, whatever its alignment, reveals whether it is Blessed (amber flash), Uncursed (no flash), or Cursed (black flash). Nothing is learned while blind.
 - **Shop Price Identification:** Selling and buying price brackets narrow down unknown scrolls, potions, rings, and wands to specific price tiers.
-- **Wand Engraving:** Engraving on the floor with a wand (`E`) tests wand effects without expending valuable charges on some types.
+- **Wand Engraving:** Engraving on the floor with a wand (`E`) can reveal a wand's type from the message it gives, but it always uses one charge, exactly as zapping does.
 - **Observation on Use:** Safe consumption or zapping in controlled environments can reveal identities.
 
 #### 5. Quick Answer Reference
